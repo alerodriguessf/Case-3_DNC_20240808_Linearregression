@@ -121,6 +121,3 @@ The script allows for custom predictions by inputting specific values for the fe
 
 The model predicts the house price based on these inputs.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
